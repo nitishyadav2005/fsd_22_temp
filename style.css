@@ -1,5 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 body{
     background-color: rgb(186, 199, 203);
     margin: 10px;
     padding: 50px;
+}
+ul{
+    padding: 1opx;
+    background-color: aqua;
+    text-align: right;
+}
+li{
+   display: inline-block;
+}
+a{
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: rgb(73, 35, 243);
+    font-weight: 800;
+    padding: 10px;
+
 }
